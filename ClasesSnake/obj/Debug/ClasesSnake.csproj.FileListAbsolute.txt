@@ -1,0 +1,10 @@
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\ClasesSnake\bin\Debug\ClasesSnake.dll
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\ClasesSnake\bin\Debug\ClasesSnake.pdb
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\ClasesSnake\obj\Debug\ClasesSnake.dll
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\ClasesSnake\obj\Debug\ClasesSnake.pdb
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\ClasesSnake\bin\Debug\ClasesSnake.dll
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\ClasesSnake\bin\Debug\ClasesSnake.pdb
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\ClasesSnake\obj\Debug\ClasesSnake.csprojResolveAssemblyReference.cache
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\ClasesSnake\obj\Debug\ClasesSnake.csproj.CoreCompileInputs.cache
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\ClasesSnake\obj\Debug\ClasesSnake.dll
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\ClasesSnake\obj\Debug\ClasesSnake.pdb

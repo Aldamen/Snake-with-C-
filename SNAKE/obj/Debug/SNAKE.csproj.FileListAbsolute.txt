@@ -1,0 +1,48 @@
+d:\users\usuario2\documents\visual studio 2017\Projects\SNAKE\SNAKE\bin\Debug\SNAKE.exe.config
+d:\users\usuario2\documents\visual studio 2017\Projects\SNAKE\SNAKE\bin\Debug\SNAKE.exe
+d:\users\usuario2\documents\visual studio 2017\Projects\SNAKE\SNAKE\bin\Debug\SNAKE.pdb
+d:\users\usuario2\documents\visual studio 2017\Projects\SNAKE\SNAKE\obj\Debug\SNAKE.csprojResolveAssemblyReference.cache
+d:\users\usuario2\documents\visual studio 2017\Projects\SNAKE\SNAKE\obj\Debug\SNAKE.Form1.resources
+d:\users\usuario2\documents\visual studio 2017\Projects\SNAKE\SNAKE\obj\Debug\SNAKE.Properties.Resources.resources
+d:\users\usuario2\documents\visual studio 2017\Projects\SNAKE\SNAKE\obj\Debug\SNAKE.csproj.GenerateResource.Cache
+d:\users\usuario2\documents\visual studio 2017\Projects\SNAKE\SNAKE\obj\Debug\SNAKE.exe
+d:\users\usuario2\documents\visual studio 2017\Projects\SNAKE\SNAKE\obj\Debug\SNAKE.pdb
+D:\Users\Usuario2\Documents\Visual Studio 2017\Projects\SNAKE\SNAKE\obj\Debug\SNAKE.Form2.resources
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\SNAKE\bin\Debug\SNAKE.exe.config
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\SNAKE\bin\Debug\SNAKE.exe
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\SNAKE\bin\Debug\SNAKE.pdb
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.csprojResolveAssemblyReference.cache
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.Form1.resources
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.Form2.resources
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.Properties.Resources.resources
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.csproj.GenerateResource.Cache
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.exe
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.pdb
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\SNAKE\bin\Debug\ClasesSnake.dll
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\SNAKE\bin\Debug\ClasesSnake.pdb
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.csprojResolveAssemblyReference.cache
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.Form1.resources
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.Form2.resources
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.Properties.Resources.resources
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.csproj.GenerateResource.Cache
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.csproj.CoreCompileInputs.cache
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.exe
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.pdb
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\SNAKE\bin\Debug\SNAKE.exe.config
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\SNAKE\bin\Debug\SNAKE.exe
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\SNAKE\bin\Debug\SNAKE.pdb
+D:\Users\Usuario2\Desktop\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.Form3.resources
+C:\Users\lainm\Downloads\el propio\SNAKE (1)\SNAKE\SNAKE\bin\Debug\SNAKE.exe.config
+C:\Users\lainm\Downloads\el propio\SNAKE (1)\SNAKE\SNAKE\bin\Debug\SNAKE.exe
+C:\Users\lainm\Downloads\el propio\SNAKE (1)\SNAKE\SNAKE\bin\Debug\SNAKE.pdb
+C:\Users\lainm\Downloads\el propio\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.csprojResolveAssemblyReference.cache
+C:\Users\lainm\Downloads\el propio\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.Form1.resources
+C:\Users\lainm\Downloads\el propio\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.Form2.resources
+C:\Users\lainm\Downloads\el propio\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.Form3.resources
+C:\Users\lainm\Downloads\el propio\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.Properties.Resources.resources
+C:\Users\lainm\Downloads\el propio\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.csproj.GenerateResource.Cache
+C:\Users\lainm\Downloads\el propio\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.exe
+C:\Users\lainm\Downloads\el propio\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.pdb
+c:\Users\lainm\Documents\Universidad\2do Semestre\Programacion\el propio\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.csprojAssemblyReference.cache
+c:\Users\lainm\Documents\Universidad\2do Semestre\Programacion\el propio\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.exe
+c:\Users\lainm\Documents\Universidad\2do Semestre\Programacion\el propio\SNAKE (1)\SNAKE\SNAKE\obj\Debug\SNAKE.pdb

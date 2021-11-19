@@ -1,0 +1,7 @@
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\Clases\bin\Debug\netstandard1.4\Clases.deps.json
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\Clases\bin\Debug\netstandard1.4\Clases.dll
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\Clases\bin\Debug\netstandard1.4\Clases.pdb
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\Clases\obj\Debug\netstandard1.4\Clases.csprojResolveAssemblyReference.cache
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\Clases\obj\Debug\netstandard1.4\Clases.AssemblyInfo.cs
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\Clases\obj\Debug\netstandard1.4\Clases.dll
+C:\Users\lainm\Downloads\SNAKE (1)\SNAKE\Clases\obj\Debug\netstandard1.4\Clases.pdb
